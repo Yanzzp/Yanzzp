@@ -1,0 +1,22 @@
+name: Push to GitHub Every 3 Days
+
+on:
+  # 定时触发，每3天执行一次
+  schedule:
+    - cron: "0 0 */3 * *"
+
+  workflow_dispatch:
+  
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
