@@ -25,18 +25,13 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Yanzzp/Yanzzp/assets/github-contribution-grid-snake.svg" /></div>
 
+<div class="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"/>
+</div>
 
-<div class="flex-container">
-    <div class="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"/>
-    </div>
-
-    <div style="width: 10px;"></div>
-    <div >
+<div >
         <img
                 src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
     </div>
-
-</div>
 
 
