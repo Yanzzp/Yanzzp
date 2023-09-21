@@ -23,5 +23,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![](https://raw.githubusercontent.com/Yanzzp/Yanzzp/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Yanzzp/Yanzzp/assets/github-contribution-grid-snake.svg" /></div>
+
 
