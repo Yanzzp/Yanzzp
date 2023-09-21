@@ -23,9 +23,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanzzp/Yanzzp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanzzp/Yanzzp/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yanzzp/Yanzzp/output/github-contribution-grid-snake.svg" />
-</picture>
+![](https://raw.githubusercontent.com/Yanzzp/Yanzzp/main/assets/github-contribution-grid-snake.svg)
 
