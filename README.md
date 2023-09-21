@@ -25,25 +25,12 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Yanzzp/Yanzzp/assets/github-contribution-grid-snake.svg" /></div>
 
-<style>
-    .flex-container {
-        display: flex;
-    }
 
-    .image {
-        height: 200px; /* 设置相同的高度，根据需要调整 */
-    }
-</style>
 <div class="flex-container">
     <div class="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"/>
     </div>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center;
-        }
-    </style>
+
     <div style="width: 10px;"></div>
     <div >
         <img
