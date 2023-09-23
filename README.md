@@ -25,15 +25,22 @@ Here are some ideas to get you started:
 <!--
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Yanzzp/Yanzzp/assets/github-contribution-grid-snake.svg" /></div>
 -->
-<div class="center">
-    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"  />
-     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzzp&layout=compact&theme=tokyonight" class="image" />
-</div>
+
+<table>
+  <tr>
+    <td>
+        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"  />
+        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzzp&layout=compact&theme=tokyonight" class="image" />   
+    </td>
+  </tr>
+</table>
 
 <table>
     <tr>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
-        <img src="https://github.com/Yanzzp/Yanzzp/blob/main/profile-3d-contrib/profile-night-rainbow.svg" class="image"/>
+        <td>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
+            <img src="https://github.com/Yanzzp/Yanzzp/blob/main/profile-3d-contrib/profile-night-rainbow.svg" class="image"/>
+        </td>
     </tr>
 </table>
 
