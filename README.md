@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <div >
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
-    ![](./profile-3d-contrib/profile-green-animate.svg)
+    <img src="https://github.com/Yanzzp/Yanzzp/blob/main/profile-3d-contrib/profile-night-rainbow.svg" class="image"/>
+
 </div>
 
 
