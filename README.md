@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Yanzzp/Yanzzp/assets/github-contribution-grid-snake.svg" /></div>
 -->
 <div class="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image" style="object-fit: cover;" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzzp&layout=compact&theme=tokyonight" class="image" style="object-fit: cover;" />
 </div>
 
 <div >
-        <img
-                src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
-    </div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
+    ![](./profile-3d-contrib/profile-green-animate.svg)
+</div>
 
 
