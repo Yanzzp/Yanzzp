@@ -30,10 +30,11 @@ Here are some ideas to get you started:
      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzzp&layout=compact&theme=tokyonight" class="image" />
 </div>
 
-<div >
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
-    <img src="https://github.com/Yanzzp/Yanzzp/blob/main/profile-3d-contrib/profile-night-rainbow.svg" class="image"/>
-
-</div>
+<table>
+    <tr>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanzzp&theme=xcode" class="image"/>
+        <img src="https://github.com/Yanzzp/Yanzzp/blob/main/profile-3d-contrib/profile-night-rainbow.svg" class="image"/>
+    </tr>
+</table>
 
 
