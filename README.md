@@ -51,11 +51,10 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
 
+<!-- 贪吃蛇 -->
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanzzp/Yanzzp/output/github-contribution-grid-snake-dark.svg">
@@ -65,11 +64,13 @@
 </div>
 
 
+<!-- 语言占比 -->
 <div align="center">
     <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yanzzp&show_icons=true&theme=tokyonight" class="image"  />
     <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzzp&layout=compact&theme=tokyonight" class="image" />   
 </div>
 
+<!-- 3D提交图 -->
 <table>
     <tr>
         <td>
