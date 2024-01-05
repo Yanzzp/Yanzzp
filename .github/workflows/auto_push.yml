@@ -1,4 +1,4 @@
-name: Push to GitHub Every 3 Days
+name: Push_to_GitHub_Every_3_Days
 
 on:
   # 定时触发，每3天执行一次
